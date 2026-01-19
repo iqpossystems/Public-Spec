@@ -1,4 +1,4 @@
-# P1‑S1 Telemetry Pilot — Public Spec (Non‑Sensitive)
+# Telemetry Pilot — Public Spec (Non‑Sensitive)
 
 This document is a **public-safe blueprint** for the P1‑S1 pilot.
 It is intentionally written to avoid disclosing any private keys, internal endpoints, proprietary agent code, or sensitive operational details.
